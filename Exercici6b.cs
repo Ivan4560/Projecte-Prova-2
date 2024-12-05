@@ -7,7 +7,7 @@ principi o final
 
 */
 using System;
-using System.Text.RegularExpressions;
+
 
 public class ContrasenyaValidator
 {
